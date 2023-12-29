@@ -1,0 +1,61 @@
+{
+  "dashboardScreenAlertsTile": "Alerts",
+  "dashboardScreenFaq1Tile": "Using Pos",
+  "dashboardScreenFaq2Title": "POS terminal services",
+  "dashboardScreenContactTile": "Contact",
+  "dashboardScreenFabMenuOtherServices": "Other CSB services",
+  "dashboardScreenFabMenuFeedback": "Rate us",
+  "dashboardScreenFabMenuLegals": "Legals",
+
+  "dashboardFaqScreenTitle": "Telium 2 Range",
+  "dashboardFaqScreenTitle2": "Tetra Range",
+
+  "footerHomeButton": "Home",
+  "footerAlertsButton": "Alerts",
+  "footerFaqButton": "FAQ",
+  "footerContactButton": "Contact",
+
+  "contactScreenTitle": "Contact",
+  "contactScreenMailTile_0": "E-mail address",
+  "contactScreenMailTile_1": "sav@csb.nc",
+  "contactScreenPhoneTile_0": "Phone",
+  "contactScreenPhoneTile_1": "+687 46 33 33",
+  "contactScreenAddressTile_0": "Address",
+  "contactScreenAddressTile_1": "88 promenade de Koutio",
+  "contactScreenAddressTile_2": "98835 Dumbéa",
+  "contactScreenAddressTile_3": "https://www.google.com/maps/place/CSB/@-22.2214616,166.4731207,17z/data=!3m1!4b1!4m5!3m4!1s0x6c2807ebc08ed34d:0x78015a6f28b59a51!8m2!3d-22.2214666!4d166.4753094",
+  "contactScreenOpeningHoursTile_0": "Opening hours",
+  "contactScreenOpeningHoursTile_1": "from 7.30AM to 11.30AM",
+  "contactScreenOpeningHoursTile_2": "from 1PM to 5PM",
+  "contactScreenOpeningHoursTile_3": "Closing at 4PM on Friday",
+
+  "faqScreenPosTermTitle": "My POS terminal - \n Tetra range",
+  "faqScreenPosTermContentIntro": "We have choosen the most frequently asked questions. Feel free to consult this FAQ, the answers you are looking for may be there!",
+  "faqScreenPosTermServicesTitle": "POS terminal services",
+  "faqScreenPosTermServicesContentIntro": "We have choosen the most frequently asked questions related to TPE software. Feel free to consult this FAQ, the answers you are looking for may be there!",
+
+  "faqScreenPosTermTitle2": "My POS terminal - \n Telium 2 range",
+
+  "servicesScreenTitle": "Other services",
+  "servicesScreenEpayNCItemTitle": "Discover EpayNC",
+  "servicesScreenTydocItemTitle": "Discover Tydoc",
+  "servicesScreenButtonLabelLearnMore": "Learn More",
+
+  "feedbackScreenTitle": "Rate us",
+  "feedbackScreenContentBody": "Your participation in the last survey helped to create this application.\nRecommend the application on the store or send us your comments!",
+  "feedbackScreenQuestion": "Are you satisfied with the application?",
+  "feedbackScreenButtonTitle_1": "Agree",
+  "feedbackScreenButtonSubtitle_1": "Rate us on the store",
+  "feedbackScreenButtonTitle_2": "Comments",
+  "feedbackScreenButtonSubtitle_2": "I would like to suggest some improvements",
+  "feedbackScreen2TextFieldLabel": "Enter your comment",
+  "feedbackScreen2ButtonTitle": "Submit",
+  "feedbackScreen2FeedbackSent": "Your comment has been sent",
+  "feedbackScreen2FeedbackError": "An unexcepted error occurs, please try again later",
+  "feedbackScreen2PopupClose": "Close",
+
+  "legalsScreenTitle": "Legals",
+  "legalsScreenToSButtonText": "Terms of Service",
+  "legalsScreenLegalNoticeButtonText": "Legal Notice",
+  "legalsScreenPrivacyPolicyButtonText": "Privacy Policy"
+}

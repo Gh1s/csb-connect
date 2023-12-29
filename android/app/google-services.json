@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305562654405",
+    "project_id": "merchant-mobile-app-324c0",
+    "storage_bucket": "merchant-mobile-app-324c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305562654405:android:6ce267a2c99ded358842ac",
+        "android_client_info": {
+          "package_name": "nc.csb.merchant_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305562654405-lrrqrjsg1i2ou68vh9rluhc7mvfa4tj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuPyElJhBAgYu6qEWT0OgNfaIjSse50s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305562654405-lrrqrjsg1i2ou68vh9rluhc7mvfa4tj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305562654405-861n538j32fdm288flaclm3pmgcrl06o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nc.csb.merchant-mobile-app",
+                "app_store_id": "1555361273"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

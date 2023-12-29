@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Rebooter le TPE",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment rebooter mon TPE ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Il suffit de maintenir le bouton jaune et le bouton « . » simultanément.</p>"
+      }
+    ]
+  },
+  {
+    "title": "Changer le rouleau",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment changer le rouleau ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Ouvrir le compartiment papier en soulevant le volet du couvercle situé sur le haut du TPE, et en tirant ensuite le volet vers l’arrière.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Placer le rouleau, tirer un peu de papier, le logo CSB doit être au dos. Le maintenir dans cette position et refermer le couvercle.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Appuyer simultanément sur les deux coins supérieurs du couvercle, jusqu’à ce qu’un « clic » se fasse entendre.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/changer_rouleau_TPE_TELIUM.png"
+      }
+    ]
+  },
+  {
+    "title": "Duplicata d'un ticket",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><em>Le Duplicata s’effectue uniquement sur la dernière transaction. A la fin de la procédure, vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment éditer un DUPLICATA ?</strong></h2>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/y3FtQ2ocrUI?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/6DNoIWi5jC0?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA EMV (carte bancaire) ou JADE (à puce)</strong></h3><ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB EMV et valider</li><li>Sélectionner DUPLICATA et valider</li><li>Choisir le type de ticket :commerçant ou client</li><li>Sélectionner CARTE pour un duplicata de la transaction ou CENTRE pour la télecollecte.</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA CB CLESS (sans contact)</strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB CLESS et valider</li><li>Sélectionner DUPLICATA et valider</li><li>Sélectionner CARTE pour un duplicata de la transaction</li><li>Choisir le type de ticket :commerçant ou client</li><li>Sélectionner CENTRE pour un duplicata de la télécollecte</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA JADE (à piste)</strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à JADE  et valider</li><li>Sélectionner DUPLICATA et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA AMEX (American Express)?</strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à TELIUM MANAGER et valider</li><li>Sélectionner Amex EMV et valider</li><li>Sélectionner Duplicata et valider</li><li>Sélectionner CARTE pour un duplicata de la transaction</li><li>Choisir le type de ticket :commerçant ou client</li><li>Sélectionner CENTRE pour un duplicata de la télécollecte</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA JCB </strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ TELIUM MANAGER et valider</li><li>Sélectionner JCB et valider</li><li>Sélectionner Duplicata et valider</li><li>Sélectionner CARTE pour un duplicata de la transaction</li><li>Choisir le type de ticket :commerçant ou client</li><li>Sélectionner CENTRE pour un duplicata de la télécollecte</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA PNF (Paiement en plusieurs fois) </strong></h3><ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à CRV PR1 et valider</li><li>DUPLICATA et valider</li><li>Choix :Transaction Annulation Télécollecte et Téléparamétrage</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA VAD (vente à distance)</strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à VAD et valider</li><li>Sélectionner DUPLICATA et valider</li><li>Sélectionner CARTE pour un duplicata de la transaction</li><li>Choisir le type de ticket :commerçant ou client</li><li>Sélectionner CENTRE pour un duplicata de la télecollecte</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA TRD (Ticket restaurant) </strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à TELIUM MANAGER et valider</li><li>Sélectionner TICKET RESTAU et valider</li><li>Sélectionner Duplicata et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>DUPLICATA AVANTAGE ?</strong></h3><ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à AVANTAGE  et valider</li><li>Sélectionner DUPLICATA et valider</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Annuler une transaction",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><em>Une annulation ne peut se faire que le jour de l’achat et s’il n’y a pas eu de télécollecte. </em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Si le délai est dépassé, il est possible de faire un crédit sur la carte. Dans les deux cas, le client doit être présent lors de l’opération.</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Comment faire une ANNULATION ?</strong></h3>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/hY7lNvdfzXE?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Sélectionner TELIUM MANAGER et valider</li><li>Sélectionner ANNULATION</li><li>Saisir le montant à annuler et valider</li><li>Insérer la carte du client suivre les consignes indiquées sur l’écran</li><li>Retirer la carte lorsque le TPE l’indique</li><li>Le commerçant est invité à passer sa carte de domiciliation dans le lecteur piste pour valider l’annulation.</li><li>Valider pour que les tickets d’annulation s’impriment.</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Une annulation se fait uniquement le jour d’achat et s’il n’y a pas eu de télécollecte. Dans le cas contraire il est possible de réaliser un crédit sur la carte du client.</strong></p>"
+      }
+    ]
+  },
+  {
+    "title": "Créditer une carte",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment faire un CREDIT ?</strong></h2>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/nCEh-8BcjgE?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Cette procédure est possible uniquement pour les transactions réalisées avec Carte bancaire, Carte Visa, Mastercard et American Express.</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Sélectionner TELIUM MANAGER et valider</li><li>Appuyer sur la touche ▼ jusqu’à CREDIT et valider</li><li>Saisir le montant à créditer et valider</li><li>Le client est invité à présenter sa carte à puce à la cible sur l’appareil pour les sans contact ou à insérer sa carte.</li><li>Le commerçant est invité à passer sa carte de domiciliation dans le lecteur piste pour valider le crédit</li><li>Valider pour que les tickets de crédit s’impriment</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Raccorder un TPE fixe",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un TPE Fixe</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_TPE_TELIUM.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Branchement alimentation</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Branchez le câble alimentation à la prise de la noix de connexion.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Si branchement à ligne ETHERNET/(ADSL)</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Branchez le câble ETHERNET à la prise ETH de la noix de connexion (type 1 ou 2), puis le raccorder à la box ADSL/modem.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Si branchement réseau RTC/téléphonique</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Branchez le câble RTC à la prise IN de la noix de connexion (type1 ou 2) puis brancher sur l’arrivée téléphonique.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Branchement PINPAD vers TPE</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Ouvrir le cache au dos du TPE.  Soulevez les deux tirettes puis tirez vers le haut.Connectez le port USB à la prise USB du PINPAD.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_PINPAD_TPE_TELIUM.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Raccorder un TPE mobile",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un TPE Mobile</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_mobile_TPE_TELIUM.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Branchement à l’alimentation</strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Branchez le câble d’alimentation à la prise ronde derrière la base puis branchez sur secteur.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_mobile_alimentation_TPE_TELIUM.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Si branchement à la ligne ETHERNET (ADSL)</strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Branchez le câble ETHERNET à la prise ETH derrière la base puis reliez le câble au modem.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Si branchement à la ligne téléphonique/ RTC</strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Ouvrez le cache situé au dos de la base en tirant les deux tirettes et en les soulevant vers soi. Reliez le câble RTC à la prise <strong>IN</strong>  située sous le cache de la base.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_mobile_ligne_telephonique_RTC_TPE_TELIUM.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Branchement de la batterie </strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>1. Retirez le cache situé au dos du TPE. Soulevez vers le haut les deux tirettes situées en haut du TPE pour avoir accès à la batterie.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_mobile_batterie1_TPE_TELIUM.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Repérez le détrompage du connecteur de la batterie ainsi que le connecteur situé en haut à droite.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. En respectant le détrompage des connecteurs et le code couleur des fils, enfichez complètement le connecteur de la batterie jusqu’à sentir le verrouillage. Puis, remettez le cache.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_telium/raccordement_mobile_batterie2_TPE_TELIUM.jpg"
+      }
+    ]
+  },
+  {
+    "title" : "Problèmes d'impression de l'ELC",
+    "blocks": [
+      {
+        "type" : "html",
+        "content" : "<em>Tester l'impression : insérer un papier vierge format chèque dans l'ELC cela enclenche automatiquement une impression : vérifier la qualité</em>"
+      },
+      {
+        "type": "html",
+        "content" : "<h4>A. Réamorcer la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>1. Ouvrir l'ELC, saisir la face avant et tirer jusqu'à la butée</p>"
+      },
+      {
+        "type": "localImage",
+        "content" : "assets/images/pb_impression_ELC.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Soulever le levier et retirer la cartouche</p"
+      },
+      {
+        "type" : "localImage",
+        "content" : "assets/images/pb_impression_ELC_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>3. Prendre un morceau de papier, et le positionner sur la tête d'impression de la cartocuche</p>"
+      },
+      {
+        "type": "localImage",
+        "content" : "assets/images/pb_impression_ELC_papier.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>4. Maintenir le morceau de papier avec l'index, et secouer la cartouche. Retirer le papier et vérifier la présence d'encre</p> "
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_encre.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>S'il y a de l'encre sur le morceau de papier : repositionner la cartouche A.1</li><li>S'il n'y a pas d'encre : Changer la cartouche A.2</li></ul>"
+      },
+      {
+        "type": "html",
+        "content" : "<h4>A.1 Repositionner la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content": "<p>1. Placer la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_placer_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Rabaissez le levier</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_rabaisser_levier.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>3. Réinitialiser le témoin d'encre</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_reset.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>4. Refermer l'ELC</p><p>5. Refaire une impression</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h4>A.2 Changer la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>1. Ouvrir délicatement la nouvelle cartouche, pour ne pas perdre le tampon d'amorçage</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_changer_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>2. Retirer la languette bleue et positionner le petit tampon sur la tête d'impression et secouer la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_languette.jpg"
+      },
+      {
+        "type" : "html",
+        "content" : "<p>Le tampon se tâche d'encre : </p> "
+      },
+      {
+        "type": "html",
+        "content" : "<p>ATTENTION : Ne pas boucher le trou situé à l'extrémité de la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_repo.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. Repositionner la cartouche</p><br><p><em>Cf instruction</em> A.1 repositionner la cartouche</p><p>4. Refaire une impression</p>"
+      }
+    ]
+  },
+  {
+    "title": "Journal de transaction",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Comment éditer un JOURNAL de transaction</h2>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/SVh6z0EVidE?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/PVRgjXkiRjM?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>EMV (carte bancaire)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB EMV et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Choisissez parmi les différentes options :<ul><li>ABOUTIES (pour les transactions acceptées)</li><li>NON ABOUTIES (pour les transactions refusées)</li><li>TOUTES (toutes transactions confondues)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>CB CLESS  (sans contact)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB CLESS et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Choisissez parmi les différentes options : <ul><li>ABOUTIES (pour les transactions acceptées)</li><li>NON ABOUTIES (pour les transactions refusées)</li><li>TOUTES (toutes transactions confondues)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>JADE (à puce)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB EMV et valider</li><li>Sélectionner JADE (ou CBEMV2 selon le TPE) et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Appuyer sur JADE et valider</li><li>Choisissez parmi les différentes options : <ul><li>ABOUTIES (pour les transactions acceptées</li><li>NON ABOUTIES (pour les transactions refusées)</li><li>TOUTES (toutes transactions confondues)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>JADE (à piste)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à JADE et valider</li><li>Sélectionner MENU IMPRESSION et valider</li><li>Choisissez parmi les différentes options : <ul><li>Journal : journal des transactions reprenant chaque opération détaillée</li><li>Total := Total des transactions</li><li>Duplic remise : Duplicata de la dernière télécollecte</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>AMEX (American Express)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à AMEX EMV et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Choisissez parmi les différentes options : <ul><li>ABOUTIES (pour les transactions acceptées)</li><li>NON ABOUTIES (pour les transactions refusées)</li><li>TOUTES (toutes transactions confondues)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>JCB</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à JCB et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Choisissez parmi les différentes options : <ul><li>ABOUTIES (pour les transactions acceptées)</li><li>NON ABOUTIES (pour les transactions refusées)</li><li>TOUTES (toutes transactions confondues)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>VAD (Vente à distance)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à VAD et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Choisissez parmi les différentes options : <ul><li>ABOUTIES (pour les transactions acceptées)</li><li>NON ABOUTIES (pour les transactions refusées)</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>TRD (Ticket Restaurant)</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à TICKET RESTAU et valider</li><li>Sélectionner MENU IMPRESSION et valider</li><li>Choisissez parmi les différentes options : <ul><li>Journal :journal des transactions reprenant chaque opération détaillée</li><li>Total :Total des transactions</li><li>Duplic remise :Duplicata de la dernière télécollecte</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>AVANTAGE</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à AVANTAGE et valider</li><li>Sélectionner MENU IMPRESSION et valider</li><li>Choisissez parmi les différentes options : <ul><li>Journal :journal des transactions reprenant chaque opération détaillée</li><li>Total :Total des transactions</li><li>Duplic remise :Duplicata de la dernière télécollecte</li></ul></li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>A la fin de la procédure, </em><em>vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment éditer un TOTAL de transaction</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<h3>Obtenir le montant total des cartes de la journée</h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li><em> </em>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à TELIUM MANAGER et valider</li><li>Sélectionner Consultation et valider</li><li>Sélectionner Transaction et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>A la fin de la procédure, </em><em>vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</em></p>"
+      }
+    ]
+  },
+  {
+    "title": "Télécollecte manuelle",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><em>Transmettre toutes les transactions de tous les types de cartes aux banques</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment réaliser une télécollecte ?</strong></h2>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/tFTrLzFqaeo?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/9RPnQ3HS5MA?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte CB EMV (carte bancaire) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F,</li><li>Appuyer sur la touche ▼ jusqu’à CB EMV et valider</li><li>Appuyer sur CBEMV1 et valider</li><li>Sélectionner APPEL</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Comment réaliser une télécollecte CB CLESS (paiement sans contact) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CB CLESS et valider</li><li>Sélectionner APPEL et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Comment réaliser une télécollecte JADE (à puce) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F,</li><li>Appuyer sur la touche ▼ jusqu’à CB EMV et valider</li><li>Appuyer sur JADE (ou CBEMV2 selon le TPE) et valider<li>Sélectionner APPEL</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Comment réaliser une télécollecte JADE (à piste) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F,</li><li>Appuyer sur la touche ▼ jusqu’à JADE et valider</li><li>Sélectionner FIN DE JOURNEE et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Comment réaliser une télécollecte AMEX (American Express) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F,</li><li>Appuyer sur la touche ▼ jusqu’à AMEX valider,</li><li>Sélectionner APPEL et valider</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte JCB (Japan Credit Bureau) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F,</li><li>Appuyer sur la touche ▼ jusqu’à JCB et valider</li><li>Sélectionner APPEL</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte VAD (Vente à distance) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à VAD et valider</li><li>Sélectionner APPEL</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte PNF (Paiement en plusieurs fois) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à CRV PR1 valider</li><li>Sélectionner TELECOLLECTE</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte TRD (ticket restaurant) ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à TICKET RESTAURANT et valider</li><li>Sélectionner FIN DE JOURNEE</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h3><strong>Télécollecte AVANTAGE ?</strong></h3>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à AVANTAGE et valider</li><li>Sélectionner FIN DE JOURNEE</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Message d'incident",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Que signifient les messages d'incident ?"
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>LIBELLE ERREUR</strong></p>",
+            "cause": "<p><strong>CAUSE ERREUR</strong></p>"
+          },
+          {
+            "libelle": "<p><strong>INCIDENT CARTE</strong></p>",
+            "cause": "<p>Erreur de lecture au passage d’une carte sans contact. Représenter la carte</p>"
+          },
+          {
+            "libelle": "<p><strong>TRANSACTION REFUSEE</strong></p>",
+            "cause": "<p>La carte présentée n’est reconnue par aucune application. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>MONNAIE REFUSE</strong></p>",
+            "cause": "<p>La carte est reconnue, mais la monnaie de la transaction n’est pas acceptée par l’application. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE INTERDITE</strong></p>",
+            "cause": "<p>La carte présentée est en liste noire. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE REFUSEE</strong></p>",
+            "cause": "<p>La carte est refusée par le terminal ou le centre d’autorisation. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE PERIMEE</strong></p>",
+            "cause": "<p>La carte n’est plus valable. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DEBUT INVAL</strong></p>",
+            "cause": "<p>La carte n’est pas encore valable. Abandon\n</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE BLOQUEE</strong></p>",
+            "cause": "<p>Lors de la saisie du code confidentiel, le nombre maximum de tentatives échouées a été atteint. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE ARRACHEE</strong></p>",
+            "cause": "<p>La carte a été enlevée du lecteur carte à puce avant la fin de la transaction. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>INCIDENT IMPRESSION</strong></p>",
+            "cause": "<p>Problème d’imprimante. Remettez du papier ou vérifiez la fermeture du capot de l’imprimante</p>"
+          },
+          {
+            "libelle": "<p><strong>FICHIER PLEIN</strong></p>",
+            "cause": "<p>Le fichier de transactions de l’application est plein. Abandon puis déclenchez un appel manuel de télécollecte.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Paiement en plusieur fois",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p>Cette application spécifique est à souscrire auprès de votre établissement financier.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Le paiement en plusieurs fois permet de fractionner les paiements par carte bancaire en 2 ou 3 échéances.</em></p>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/qe7zr4cmB5w?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment faire un Paiement en plusieurs fois (PNF) ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à CRV PR1 et valider</li><li>Sélectionner TRANSACTION et valider</li><li>Insérer la carte du client puis saisir le montant total de la transaction</li><li>Sélectionner le nombres d’échéances</li><li>Sélectionner les frais de dossier (offerts ou pas)</li><li>Saisir le code</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Vente à distance",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p>Cette application spécifique est à souscrire auprès de votre établissement financier.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment faire une Vente A Distance (VAD) ?</strong></h2>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/Wg3jDD12dr0?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Saisir le montant et valider</li><li>Appuyer sur la touche F</li><li>Saisir le numéro de porteur</li><li>Saisir la date de validité</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Fichier chèque",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><em>Lorsque la capacité totale de 200 chèques est atteinte, il est nécessaire de vider le cache.</em></p>"
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/hgbW0lTei7M?fs=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment vider un fichier chèque ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la Touche F</li><li>Appuyer sur la touche ▼ jusqu’à CHEQUE et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Sélectionner ERASED et valider</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Raccorder un lecteur chèque",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un ELC</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque1.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>1. Raccordez l’embout <strong>I2200</strong> du câble à la prise <strong>RS232-1</strong> du lecteur chèque.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque2.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong><u>Pour un TPE fixe:</u></strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Raccordez l’autre embout à la prise <strong>RS232</strong> de la noix de connexion de type 1 ou à la prise <strong>COM0</strong> de la noix de connexion de type 2.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque3.png"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong><u>Pour un TPE mobile:</u></strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Raccordez l’autre embout à la prise COM0 située sous le cache au dos de la base.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque4.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. Raccorder le bloc d’alimentation à la prise <strong>ALIM</strong> située derrière le lecteur chèque (cf photo 1.) puis branchez sur secteur.</p>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "title": "Rebooter le TPE",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment rebooter mon TPE ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Il suffit de maintenir le bouton jaune et le bouton « . » simultanément.</p>"
+      }
+    ]
+  },
+  {
+    "title": "Changer le rouleau",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Comment changer le rouleau ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Ouvrir le compartiment papier en soulevant le volet du couvercle situé en haut (1) de l’appareil puis le tirer vers vous (2) \nPlacer le rouleau dans le compartiment en laissant dépasser le papier (3), puis refermer le couvercle (4)\n "
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/mise_en_place_papier_TPE_TETRA.png"
+      }
+    ]
+  },
+  {
+    "title": "Duplicata d'un ticket",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><em>Le Duplicata s'effectue uniquement sur la dernière transaction. A la fin de la procédure, vérifier le ticket commerçant pour s'assurer de la conformité de l'opération</em></p>"
+      },
+      {
+        "type": "tableau",
+        "tab_header": "<p><strong>DUPLICATA</strong></p><p><em>(Permet d’obtenir le duplicata de la dernière transaction ou de la dernière remise)</em></p>",
+        "sub_header": "<p>A l’écran d’accueil du terminal, appuyer sur l’icône « <strong>PARAM</strong> ».</p>",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/menu_TPE_Tetra.jpg",
+            "description": "<p>Appuyer sur CBEMV ou CBCLESS ou AMEX ou AX QUICK PAY ou VAD</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/duplicata_TPE_TETRA.png",
+            "description": "<p>Appuyer sur «<strong>Duplicata</strong>». </p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/duplicata_TPE_TETRA2.png",
+            "description": "<ul><li>Sélectionner CARTE pour un duplicata de la dernière transaction</li><li>Sélectionner CENTRE pour un duplicata de la télécollecte</li></ul>"
+          },
+          {
+            "image": "assets/images/faq_tetra/duplicata_TPE_TETRA3.png",
+            "description": "<ul><li>Pour obtenir un duplicata de la <strong>dernière transaction aboutie</strong>, appuyer sur la touche correspondant à «<strong>Carte</strong>»</li><li>Pour obtenir un duplicata du <strong>dernier ticket de remise</strong> ou de téléparamétrage, appuyer sur la touche correspondant à «<strong>Centre</strong>».</li></ul>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Annuler une transaction",
+    "blocks": [
+      {
+        "type": "tableau",
+        "tab_header": "<p><strong>Annuler une transaction</strong></p>",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/menu_2_TPE_TETRA.png",
+            "description_icon": [
+              {
+                "valeur": "<p>Saisir directement le montant sur le clavier du terminal</p><p>OU</p><p>Appuyer sur l'îcone</p>",
+                "assets": "assets/images/faq_tetra/icon_paiement_TPE_TETRA.png"
+              },
+              {
+                "valeur": "<p>pour lancer le paiement.</p><p>Saisir le montant</p>"
+              }
+            ]
+          },
+          {
+            "image": "assets/images/faq_tetra/fonctions_debit_TPE_TETRA.png",
+            "description_icon": [
+              {
+                "valeur": "<p>Sur le terminal, appuyer sur la touche FONCTIONS  et ensuite sélectionner «<strong>Annulation</strong>». Confirmer l’opération «<strong>OK</strong>».</p>",
+                "assets": "assets/images/faq_tetra/annuler_icon_fonctions_annuler_TPE_TETRA.png"
+              },
+              {
+                "valeur": "<p>Si le bouton est verrouillé, sur le terminal maintenir la touche jaune.</p>",
+                "assets": "assets/images/faq_tetra/annuler_icon_button_jaune_TPE_TETRA.png"
+              }
+            ]
+          },
+          {
+            "image": "assets/images/faq_tetra/annuler_TPE_TETRA3.png",
+            "description": "<p>Le client est invité à insérer sa carte de paiement dans le lecteur de carte à puce. <strong><u>LAISSER LA CARTE DANS LE LECTEUR JUSQU’A LA FIN DE LA TRANSACTION</u></strong></p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/lecture_carte_commercant_TPE_TETRA.png",
+            "description": "<p>Le <strong>commerçant</strong> est invité à passer sa carte de domiciliation dans le lecteur piste pour valider l’annulation.</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/annuler_TPE_TETRA5.png",
+            "description": "<p>Le terminal a trouvé une transaction débit non annulée qui correspond au montant et au n° de carte  lue.</p><p> Dans le message, xxxxxxxxxxx représente le numéro de la carte du client.</p><p> Appuyer sur la touche verte pour confirmer l’annulation de la transaction affichée.</p><p> Appuyer sur la touche rouge pour abandonner la demande d’annulation.  </p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/paiement_accepte_TPE_TETRA.png",
+            "description": "<p>L’annulation est effectuée et enregistrée. Le ticket client et le ticket commerçant sont imprimés.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Créditer une transaction",
+    "blocks":
+    [
+      {
+        "type": "tableau",
+        "tab_header": "<p><strong>Créditer une transaction</strong></p>",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/menu_2_TPE_TETRA.png",
+            "description_icon": [
+              {
+                "valeur": "<p>Saisir directement le montant sur le clavier du terminal</p><p>OU</p><p>Appuyer sur l'îcone</p>",
+                "assets": "assets/images/faq_tetra/icon_paiement_TPE_TETRA.png"
+              },
+              {
+                "valeur": "<p>pour lancer le paiement.</p><p>Saisir le montant</p>"
+              }
+            ]
+          },
+          {
+            "image": "assets/images/faq_tetra/fonctions_debit_TPE_TETRA.png",
+            "description_icon": [
+              {
+                "valeur": "<p>Sur le terminal, appuyer sur la touche FONCTIONS  et ensuite sélectionner «<strong>Crédit</strong>». Confirmer l’opération «<strong>OK</strong>».</p>",
+                "assets": "assets/images/faq_tetra/crediter_fonctions_credit_TPE_TETRA.png"
+              },
+              {
+                "valeur": "<p>Si le bouton est verrouillé, sur le terminal maintenir la touche jaune.</p>",
+                "assets": "assets/images/faq_tetra/annuler_icon_button_jaune_TPE_TETRA.png"
+              }
+            ]
+          },
+          {
+            "image": "assets/images/faq_tetra/crediter_TPE_TETRA3.png",
+            "description": "<p>Le client est invité à insérer sa carte de paiement dans le lecteur de carte à puce. <strong><u>LAISSER LA CARTE DANS LE LECTEUR JUSQU’A LA FIN DE LA TRANSACTION</u></strong></p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/lecture_carte_commercant_TPE_TETRA.png",
+            "description": "<p>Le <strong>commerçant</strong> est invité à passer sa carte de domiciliation dans le lecteur piste pour valider l’annulation.</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/crediter_TPE_TETRA5.png",
+            "description": "<p>Appuyer sur la touche verte pour effectuer le remboursement. Appuyer sur la touche rouge pour abandonner le remboursement.</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/paiement_accepte_TPE_TETRA.png",
+            "description": "<p>Le remboursement est effectuée et enregistrée. Le ticket client et le ticket commerçant sont imprimés.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Raccorder un DESK (TPE Fixe)",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un TPE Fixe</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_TPE_Tetra.png"
+      },
+      {
+        "type": "html",
+        "content": "<p>Le TPE se branche au : </p><br><ul><li>Au PINPAD</li><li>A la prise d'alimentation</li><li>A la prise téléphonique ou à la prise ETHERNET</li><li>A l'éditeur lecteur chèque (optionnel)</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p> Les branchements s'effecuent comme indiqué dans le schéma ci-dessus. Tous les branchements se font sur une noix de connexion de type 2</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Branchement alimentation</strong></p><ul><li>Brancher le câble alimentation à la prise de la noix de connexion</li></ul>"
+      },
+      {
+        "type": "tableau",
+        "float": "left",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/raccorder_Fixe_TPE_TETRA.png",
+            "description": "<p><strong>Si connexion via la carte SIM GPRS/3G</strong></p><p>L’emplacement SIM se trouve sous la trappe du terminal, dans l’emplacement indiqué ci-dessous</p><p>Insérer la carte SIM dans le sens marqué</p>"
+          },
+          {
+            "description": "<p><strong>Si connexion via la ligne ETHERNET/(ADSL)</strong></p><ul><li>Brancher le câble ETHERNET à la prise ETH de la noix de connexion</li><li>Raccorder à la box ADSL/modem</li></ul><p><strong>Si connexion via le réseau RTC/téléphonique</strong></p><ul><li>Brancher le câble RTC à la prise IN de la noix de connexion</li><li>Brancher sur l'arrivée téléphonique.</li></ul>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Raccorder TPE mobile",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un TPE mobile</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA1.png"
+      },
+      {
+        "type": "html",
+        "content": "<p>Tous les raccordements se font sur la base du TPE équipé du Bluetooth.</p><br><ul><li>La prise d'alimentation</li><li>Laprise téléphonique</li><li>La prise ETHERNET</li><li>L'éditeur lecteur chèque (optionnel)</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Pour un TPE qui n'est pas équipé de Bluetooth, la base permet uniquement de charger la batterie du terminal</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Installation de la batterie </strong></p><ul><li>Retournez votre terminal et dévérouillez la trappe de batterie en appuyant sur le button comme indiqué sur l'image</li><li>Dévérouiller la trappe</li><li>Prenez la batterie incluse dans la boîte</li><li>Localisez le connecteur du bloc-batterie à côté du compartiment batterie</li><li>Branchez le connecteur de la batterie selon le système de localisation des connecteurs (comme indiqué sur la photo)</li><li>Vérifiez qu'il se verouille</li><li>Placez la batterie dans son compartiment</li><li>Refermez la trappe</li></ul>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA2.png"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Branchement à l'alimentation</strong></p><ul><li>Brancher le câble d'alimentation à la prise ronde située derrière la base ou sur</li></ul>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA3.png"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Brancher sur secteur.</li><p><strong>Si connexion via la carte SIM GPRS/3G</strong></p><li>Au dos du TPE, retirez le cache du bas</li><li>Placer la carte SIM dans l'emplacement 1 prévu à cet effeten mettant la puce vers l'appareil. L'encoche doit être située en haut à droite.</li></ul>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA4.png"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Si connexion via la ligne ETHERNET (ADSL):</strong></p><ul><li>Brancher le câble ETHERNET à la prise ETH située derrière la base</li><li>Relier le câble au modem</li></ul>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA5.png"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong>Si connexion via la ligne téléphonique/RTC:</strong></p><ul><li>Ouvrir le cache situé au dos de la base en tirant les deux tirettes et en les soulevants ver sois</li><li>Relier le câble RTC à la prise <strong>IN</strong> située sous le cache de la base</ul>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/faq_tetra/raccord_mobile_TPE_TETRA6.png"
+      }
+
+    ]
+  },
+  {
+    "title" : "Problèmes d'impression de l'ELC",
+    "blocks": [
+      {
+        "type" : "html",
+        "content" : "<em>Tester l'impression : insérer un papier vierge format chèque dans l'ELC cela enclenche automatiquement une impression : vérifier la qualité</em>"
+      },
+      {
+        "type": "html",
+        "content" : "<h4>A. Réamorcer la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>1. Ouvrir l'ELC, saisir la face avant et tirer jusqu'à la butée</p>"
+      },
+      {
+        "type": "localImage",
+        "content" : "assets/images/pb_impression_ELC.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Soulever le levier et retirer la cartouche</p"
+      },
+      {
+        "type" : "localImage",
+        "content" : "assets/images/pb_impression_ELC_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>3. Prendre un morceau de papier, et le positionner sur la tête d'impression de la cartocuche</p>"
+      },
+      {
+        "type": "localImage",
+        "content" : "assets/images/pb_impression_ELC_papier.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>4. Maintenir le morceau de papier avec l'index, et secouer la cartouche. Retirer le papier et vérifier la présence d'encre</p> "
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_encre.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>S'il y a de l'encre sur le morceau de papier : repositionner la cartouche A.1</li><li>S'il n'y a pas d'encre : Changer la cartouche A.2</li></ul>"
+      },
+      {
+        "type": "html",
+        "content" : "<h4>A.1 Repositionner la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content": "<p>1. Placer la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_placer_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Rabaissez le levier</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_rabaisser_levier.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>3. Réinitialiser le témoin d'encre</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_reset.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>4. Refermer l'ELC</p><p>5. Refaire une impression</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h4>A.2 Changer la cartouche</h4>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>1. Ouvrir délicatement la nouvelle cartouche, pour ne pas perdre le tampon d'amorçage</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_changer_cartouche.jpg"
+      },
+      {
+        "type": "html",
+        "content" : "<p>2. Retirer la languette bleue et positionner le petit tampon sur la tête d'impression et secouer la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_languette.jpg"
+      },
+      {
+        "type" : "html",
+        "content" : "<p>Le tampon se tâche d'encre : </p> "
+      },
+      {
+        "type": "html",
+        "content" : "<p>ATTENTION : Ne pas boucher le trou situé à l'extrémité de la cartouche</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/pb_impression_ELC_repo.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. Repositionner la cartouche</p><br><p><em>Cf instruction</em> A.1 repositionner la cartouche</p><p>4. Refaire une impression</p>"
+      }
+    ]
+  },
+  {
+    "title": "Journal des transactions",
+    "blocks": [
+      {
+        "type": "tableau",
+        "tab_header": "<p><strong>Journal des transactions</strong></p><p><em>(Obtenir le total et le journal des transaction de la journée)</em></p>",
+        "sub_header": "<p>Appuyer sur la touche « home »   puis Appuyer sur l’icône “PARAMETRE”</p>",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/menu_TPE_Tetra.jpg",
+            "description": "<p>Appuyer sur CBEMV (pour les cartes bancaires contact et JADE à puce)</p> <p>ou CBCLESS (pour les cartes bancaires en sans contact)</p> <p>ou AMEX (carte AMEX contact)</p> <p>ou AX QUICK PAY (carte AMEX sans contact)</p> <p>ou VAD (paiement vente à distance).</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/menu_TPE_Tetra2.jpg",
+            "description": "<p>Appuyer sur « <strong>Consultation</strong> ». </p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/journal_TPE_TETRA3.jpg",
+            "description": "<p>Ce message s’affiche pour CBEMV : </p><ul><li>Choisir CBEMV1 pour les cartes bancaires contact</li><li>Choisir JADE pour les cartes JADE à puce</li></ul>"
+          },
+          {
+            "image": "assets/images/faq_tetra/journal_TPE_TETRA4.jpg",
+            "description": "<p>Impression des totaux (nombre/ montant/ transactions).</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/journal_TPE_TETRA5.jpg",
+            "description": "<p>Choix du type de <strong>journal</strong>à imprimer :</p><ul><li>«<strong>1-Abouties</strong>» : impression du journal des transactions abouties.</li><li>«<strong>2-Non abouties</strong>» : impression du journal des transactions non abouties.</li><li>«<strong>3-Toutes</strong>» : impression du journal complet des transactions abouties et non abouties.</li>"
+          },
+          {
+            "image": "assets/images/faq_tetra/journal_TPE_TETRA6.jpg",
+            "description": "<ul><li>Le choix «<strong>2-Toutes</strong>» imprime le journal de toutes les transactions abouties (intitulé JOURNAL ABOUTI) et non abouties (intitulé JOURNAL INCIDENTS), selon le type choisi précédemment.</li><li>Le choix «<strong>1-Une seule</strong>» donne le message suivant :</li></ul>"
+          },
+          {
+            "image": "assets/images/faq_tetra/journal_TPE_TETRA7.jpg",
+            "description": "<p>Saisir le numéro (1 à 3 chiffres) de la transaction à imprimer (saisir numéro faisant partie du type choisi précédemment : abouties ou non abouties) et valider.</p>"
+          }
+        ]
+      }
+    ]
+
+  },
+  {
+    "title": "Réaliser une télécollecte manuellement",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Comment réaliser une télécollecte manuellement ?"
+      },
+      {
+        "type": "tableau",
+        "tab_header": "<p>Appuyer sur la touche « home » puis sur l’icône ” PARAMETRES”</p>",
+        "tabcontent": [
+          {
+            "image": "assets/images/faq_tetra/menu_TPE_Tetra.jpg",
+            "description": "<p>Appuyer sur CBEMV (pour les cartes bancaires contact et JADE à puce)</p> <p>ou CBCLESS (pour les cartes bancaires en sans contact)</p> <p>ou AMEX (carte AMEX contact)</p> <p>ou AX QUICK PAY (carte AMEX sans contact)</p> <p>ou VAD (paiement vente à distance).</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/menu_TPE_Tetra2.jpg",
+            "description": "<p>Appuyer sur « <strong>Appel</strong> ».</p>"
+          },
+          {
+            "image": "assets/images/faq_tetra/telecollecte_manuel_TPE_Tetra.jpg",
+            "description": "<p>Le terminal lance la télécollecte.</p><p> À la fin de la télécollecte, le terminal imprime un ticket de « TELECOLLECTE ».</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Message d'incident",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Que signifient les messages d'incident ?</h2>"
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>LIBELLE ERREUR</strong></p>",
+            "cause": "<p><strong>CAUSE ERREUR</strong></p>"
+          },
+          {
+            "libelle": "<p><strong>INCIDENT CARTE</strong></p>",
+            "cause": "<p>Erreur de lecture au passage d’une carte sans contact. Représenter la carte</p>"
+          },
+          {
+            "libelle": "<p><strong>TRANSACTION REFUSEE</strong></p>",
+            "cause": "<p>La carte présentée n’est reconnue par aucune application. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>MONNAIE REFUSE</strong></p>",
+            "cause": "<p>La carte est reconnue, mais la monnaie de la transaction n’est pas acceptée par l’application. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE INTERDITE</strong></p>",
+            "cause": "<p>La carte présentée est en liste noire. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE REFUSEE</strong></p>",
+            "cause": "<p>La carte est refusée par le terminal ou le centre d’autorisation. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE PERIMEE</strong></p>",
+            "cause": "<p>La carte n’est plus valable. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DEBUT INVAL</strong></p>",
+            "cause": "<p>La carte n’est pas encore valable. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE BLOQUEE</strong></p>",
+            "cause": "<p>Lors de la saisie du code confidentiel, le nombre maximum de tentatives échouées a été atteint. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>CARTE ARRACHEE</strong></p>",
+            "cause": "<p>La carte a été enlevée du lecteur carte à puce avant la fin de la transaction. Abandon</p>"
+          },
+          {
+            "libelle": "<p><strong>INCIDENT IMPRESSION</strong></p>",
+            "cause": "<p>Problème d’imprimante. Remettez du papier ou vérifiez la fermeture du capot de l’imprimante</p>"
+          },
+          {
+            "libelle": "<p><strong>FICHIER PLEIN</strong></p>",
+            "cause": "<p>Le fichier de transactions de l’application est plein. Abandon puis déclenchez un appel manuel de télécollecte.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vente à distance",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p>Cette application spécifique est à souscrire auprès de votre établissement financier.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment faire une Vente A Distance (VAD) ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Saisir le montant et valider</li><li>Appuyer sur la touche F</li><li>Saisir le numéro de porteur</li><li>Saisir la date de validité</li><li>Vérifier le ticket commerçant pour s’assurer de la conformité de l’opération.</li></ul>"
+      }
+    ]
+  },
+  {
+    "title": "Fichier chèque",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p>Lorsque la capacité totale de 200 chèques est atteinte, il est nécessaire de vider le cache</p>"
+      },
+      {
+        "type": "video",
+        "content": "https://youtu.be/hgbW0lTei7M"
+      },
+      {
+        "type": "html",
+        "content": "<h2>Comment vider un fichier chèque ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Appuyer sur la touche F</li><li>Appuyer sur la touche ▼ jusqu’à CHEQUE et valider</li><li>Sélectionner CONSULTATION et valider</li><li>Sélectionner ERASED et valider</li><li>Vérifier le ticket commerçant de la conformité de l'opération.</li></ul> "
+      }
+    ]
+  },
+  {
+    "title": "Raccorder un lecteur chèque",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Raccorder un ELC</h2>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque1.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>1. Raccordez l’embout <strong>I2200</strong> du câble à la prise <strong>RS232-1</strong> du lecteur chèque.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque2.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong><u>Pour un TPE fixe:</u></strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Raccordez l’autre embout à la prise <strong>RS232</strong> de la noix de connexion de type 1 ou à la prise <strong>COM0</strong> de la noix de connexion de type 2.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque3.png"
+      },
+      {
+        "type": "html",
+        "content": "<p><strong><u>Pour un TPE mobile:</u></strong></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Raccordez l’autre embout à la prise COM0 située sous le cache au dos de la base.</p>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/raccordement_lecteur_cheque4.jpg"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. Raccorder le bloc d’alimentation à la prise <strong>ALIM</strong> située derrière le lecteur chèque (cf photo 1.) puis branchez sur secteur.</p>"
+      }
+    ]
+  },
+  {
+    "title": "Neocarte (carte déjeuner calédonien)",
+    "blocks":
+    [
+      {
+        "type": "html",
+        "content": "<p>Grâce à votre nouveau TPE de la gamme TETRA de la CSB, vous allez pouvoir accepter l'ensemble des cartes de paiement du réseau NEOCARTE.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Sous réserve de souscription à un contrat d'acceptation</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment faire un paiement carte à piste ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Taper le montant à facturer</li><li>Slider la carte de votre client sur le côté droit du TPE</li><li>Le client saisit son code PIN sur le PINPAD</li><li>Si le solde est disponible, alors la transaction est autorisée</li><li>Un ticket TPE, indiquant le solde restant du client, sort</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Le plafond et le nombre de transactions sans contact ne doivent pas être atteints. Informations consultables sur l'application NEOCARTE du client.</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p><em>Plafond maximum quotidien autorisé : 5 000 CFP ou 5 OPÉRATIONS AVANT RÉINITIALISATION VIA L'APPLICATION MOBILE NEOCARTE (pour les paiements sans contact)</em></p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2>Comment faire un duplicata du ticket ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Taper sur la touche PARAMETRES</li><li>Sélectionner NEOCARTE</li><li>Sélectionner DUPLICATA TRANSACTION</li></ul>"
+      },
+      {
+        "type": "html",
+        "content": "<h2>Comment faire une télécollecte Néocarte ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<ul><li>Taper sur la touche PARAMETRES</li><li>Sélectionner NEOCARTE</li><li>Sélectionner TELECOLLECTE</li><ul>"
+      }
+    ]
+  }
+]

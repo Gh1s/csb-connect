@@ -1,0 +1,213 @@
+{
+  "dashboardScreenAlertsTile": "Alertes",
+  "@dashboardScreenAlertsTile": {
+    "description": "The title for the tile that navigates to the alerts screen, from the dashboard screen."
+  },
+  "dashboardScreenFaq1Tile": "Utilisation du TPE",
+  "@dashboardScreenFaq1Tile": {
+    "description": "The title for the tile that navigates to the POS terminal FAQ screen, from the dashboard screen."
+  },
+  "dashboardScreenFaq2Title": "Nos services TPE",
+  "@dashboardScreenFaq2Title": {
+    "description": "The title for the tile that navigates to the POS terminal services FAQ screen, from the dashboard screen."
+  },
+  "dashboardScreenContactTile": "Contact",
+  "@dashboardScreenContactTile": {
+    "description": "The title for the tile that navigates to the contact screen, from the dashboard screen."
+  },
+  "dashboardScreenFabMenuOtherServices": "Les autres services CSB",
+  "@dashboardScreenFabMenuOtherServices": {
+    "description": "The label for the menu item that navigates to the other services screen, in the FAB menu."
+  },
+  "dashboardScreenFabMenuFeedback": "Votre avis compte !",
+  "@dashboardScreenFabMenuFeedback": {
+    "description": "The label the for menu item that navigates to the feedback screen, in the FAB menu."
+  },
+  "dashboardScreenFabMenuLegals": "Mentions légales",
+  "@dashboardScreenFabMenuLegals": {
+    "description": "The label for the menu time that navigates to the legals screen, in the FAB menu."
+  },
+
+  "dashboardFaqScreenTitle": "Gamme \n Telium 2",
+  "@dashboardFaqScreenTitle": {
+    "description": "The title for the tile that navigates to the POS terminal Telium 2 range FAQ screen, from the dashboard faq screen."
+  },
+  "dashboardFaqScreenTitle2": "Gamme \n Tetra",
+  "@dashboardFaqScreenTitle2": {
+    "description": "The title for the tile that navigates to the POS terminal Tetra range FAQ screen, from the dashboard faq screen."
+  },
+
+  "footerHomeButton": "Accueil",
+  "@footerHomeButton": {
+    "description": "The label for the home button in the footer."
+  },
+  "footerAlertsButton": "Alertes",
+  "@footerAlertsButton": {
+    "description": "The label for the button that navigates to the alerts screen, in the footer."
+  },
+  "footerFaqButton": "FAQ",
+  "@footerFaqButton": {
+    "description": "The label for the button that navigates to the POS terminal FAQ screen, in the footer."
+  },
+  "footerContactButton": "Contact",
+  "@footerContactButton": {
+    "description": "The label for the button that navigates to the contact screen, in the footer."
+  },
+
+  "contactScreenTitle": "Contact",
+  "@contactScreenTitle": {
+    "description": "The contact screen title."
+  },
+  "contactScreenMailTile_0": "Contact e-mail",
+  "@contactScreenMailTile_0": {
+    "description": "The contact screen e-mail tile content."
+  },
+  "contactScreenMailTile_1": "sav@csb.nc",
+  "@contactScreenMailTile_1": {
+    "description": "The contact screen e-mail tile content."
+  },
+  "contactScreenPhoneTile_0": "Accueil",
+  "@contactScreenPhoneTile_0": {
+    "description": "The contact screen phone tile content."
+  },
+  "contactScreenPhoneTile_1": "+687 46 33 33",
+  "@contactScreenPhoneTile_1": {
+    "description": "The contact screen phone tile content."
+  },
+  "contactScreenAddressTile_0": "Siège social",
+  "@contactScreenAddressTile_0": {
+    "description": "The contact screen address tile content."
+  },
+  "contactScreenAddressTile_1": "88 promenade de Koutio",
+  "@contactScreenAddressTile_1": {
+    "description": "The contact screen address tile content."
+  },
+  "contactScreenAddressTile_2": "98835 Dumbéa",
+  "@contactScreenAddressTile_2": {
+    "description": "The contact screen address tile content."
+  },
+  "contactScreenAddressTile_3": "https://www.google.com/maps/place/CSB/@-22.2214616,166.4731207,17z/data=!3m1!4b1!4m5!3m4!1s0x6c2807ebc08ed34d:0x78015a6f28b59a51!8m2!3d-22.2214666!4d166.4753094",
+  "@contactScreenAddressTile_3": {
+    "description": "The contact screen address tile content."
+  },
+  "contactScreenOpeningHoursTile_0": "Horaires",
+  "@contactScreenOpeningHoursTile_0": {
+    "description": "The contact screen opening hours tile content."
+  },
+  "contactScreenOpeningHoursTile_1": "de 7h30 à 11h30 et",
+  "@contactScreenOpeningHoursTile_1": {
+    "description": "The contact screen opening hours tile content."
+  },
+  "contactScreenOpeningHoursTile_2": "de 13h00 à 17h00",
+  "@contactScreenOpeningHoursTile_2": {
+    "description": "The contact screen opening hours tile content."
+  },
+  "contactScreenOpeningHoursTile_3": "Fermeture le vendredi à 16h00",
+  "@contactScreenOpeningHoursTile_3": {
+    "description": "The contact screen opening hours tile content."
+  },
+
+  "faqScreenPosTermTitle": "Mon TPE - \n Gamme Tetra",
+  "@faqScreenPosTermTitle": {
+    "description": "The POS terminal FAQ screen title."
+  },
+  "faqScreenPosTermContentIntro": "Nous avons sélectionné les réponses à vos questions les plus fréquentes. N'hésitez pas à consulter cette FAQ, les réponses que vous recherchez s'y trouvent peut-être !",
+  "@faqScreenPosTermContentIntro": {
+    "description": "The POS terminal FAQ screen content intro."
+  },
+  "faqScreenPosTermTitle2": "Mon TPE - \n Gamme Telium 2",
+  "@faqScreenPosTermTitle2": {
+    "description": "The POS terminal FAQ screen title."
+  },
+  "faqScreenPosTermServicesTitle": "Les services TPE",
+  "@faqScreenPosTermServicesTitle": {
+    "description": "The POS terminal services FAQ screen title."
+  },
+  "faqScreenPosTermServicesContentIntro": "Nous avons sélectionné les réponses à vos questions les plus fréquentes en lien avec les logiciels TPE. N'hésitez pas à consulter cette FAQ, les réponses que vous recherchez s'y trouvent peut-être !",
+  "@faqScreenPosTermServicesContentIntro": {
+    "description": "The POS terminal FAQ services screen content intro."
+  },
+
+  "servicesScreenTitle": "Autres services",
+  "@servicesScreenTitle": {
+    "description": "The title for the tile that navigates to the services screen, from the dashboard screen."
+  },
+  "servicesScreenEpayNCItemTitle": "Découvrez EpayNC",
+  "@servicesScreenEpayNCItemTitle": {
+    "description": "The item's tile for EpayNC on services screen."
+  },
+  "servicesScreenTydocItemTitle": "Découvrez Tydoc",
+  "@servicesScreenTydocItemTitle": {
+    "description": "The item's tile for Tydoc on services screen."
+  },
+  "servicesScreenButtonLabelLearnMore": "En Savoir Plus",
+  "@servicesScreenButtonLabelLearnMore": {
+    "description": "The button label learn more."
+  },
+
+  "feedbackScreenTitle": "Donner mon avis",
+  "@feedbackScreenTitle": {
+    "description": "The feedback screen title."
+  },
+  "feedbackScreenContentBody": "Votre participation à la dernière enquête a permis la création de cette application.\nContinuez à prendre la parole pour faire évoluer régulièrement votre application. Recommandez l'application sur le store ou envoyez-nous vos remarques !",
+  "@feedbackScreenContentBody": {
+    "description": "The content of feedback screen."
+  },
+  "feedbackScreenQuestion": "Êtes-vous satisfait(e) de l'application ?",
+  "@feedbackScreenQuestion": {
+    "description": "The question of feedback screen"
+  },
+  "feedbackScreenButtonTitle_1": "Bien-sûr",
+  "@feedbackScreenButtonTitle_1": {
+    "description": "The title of button 1 in the feedback screen"
+  },
+  "feedbackScreenButtonSubtitle_1": "Je note l'application sur le store",
+  "@feedbackScreenButtonSubtitle_1": {
+    "description": "The subtitle of button 1 in the feedback screen"
+  },
+  "feedbackScreenButtonTitle_2": "Pas encore",
+  "@feedbackScreenButtonTitle_2": {
+    "description": "The title of button 2 in the feedback screen"
+  },
+  "feedbackScreenButtonSubtitle_2": "J'ai des suggestions d'améliorations",
+  "@feedbackScreenButtonSubtitle_2": {
+    "description": "The subtitle of button 2 in the feedback screen"
+  },
+  "feedbackScreen2TextFieldLabel": "Saississez votre commentaire",
+  "@feedbackScreen2TextFieldLabel": {
+    "description": "The label of the input textfield for comments in the feedback 2 screen"
+  },
+  "feedbackScreen2ButtonTitle": "Envoyer",
+  "@feedbackScreen2ButtonTitle": {
+    "description": "The title of submit button for comments in the feedback 2 screen"
+  },
+  "feedbackScreen2FeedbackSent": "Vos remarques ont bien été envoyé",
+  "@feedbackScreen2FeedbackSent": {
+    "description": "The success message of the popup that sent the comment in the feedback 2 screen"
+  },
+  "feedbackScreen2FeedbackError": "Une erreur inattendu s'est produite, veuillez réessayer ultérieurement",
+  "@feedbackScreen2FeedbackError": {
+    "description": "The error message of the popup that sent the comment in the feedback 2 screen"
+  },
+  "feedbackScreen2PopupClose": "Fermer",
+  "@feedbackScreen2PopupClose": {
+    "description": "The close message of the popup in the feedback 2 screen"
+  },
+
+  "legalsScreenTitle": "Mentions légales",
+  "@legalsScreenTitle": {
+    "description": "The Title of Legals Screen"
+  },
+  "legalsScreenToSButtonText": "Conditions Générales d’Utilisation",
+  "@legalsScreenToSButtonText": {
+    "description": "The Term of Service Button Text in the Legals screen"
+  },
+  "legalsScreenLegalNoticeButtonText": "Mentions légales",
+  "@legalsScreenLegalNoticeButtonText": {
+    "description": "The Legal Notice Button Text in the Legals screen"
+  },
+  "legalsScreenPrivacyPolicyButtonText": "Politique de confidentialité",
+  "@legalsScreenPrivacyPolicyButtonText": {
+    "description": "The Privacy Policy Button Text in the Legals screen"
+  }
+}

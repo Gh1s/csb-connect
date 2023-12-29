@@ -1,0 +1,313 @@
+[
+  {
+    "title": "Louer un TPE",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Quelles démarches pour louer un TPE ?</h2><p>Votre entreprise nécessite l’encaissement régulier de règlements.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Il suffit de signer avec votre banque un contrat monétique de type « accepteur » qui autorise les paiements par carte bancaire ou carte de paiement sur votre TPE.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Vous signez ensuite avec la CSB un contrat de location correspondant au modèle de TPE que vous avez choisi (TPE fixe en IP, GPRS…).</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2>Comment recevoir vos factures CSB ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Depuis janvier 2019, la CSB a mis en place un espace en ligne personnalisé et sécurisé vous permettant de visualiser et télécharger vos factures en toute autonomie.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Afin d'activer votre compte client votre accord est nécessaire.</p>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>Pour cela, nous vous invitons à compléter le formulaire de souscription sur le lien suivant : <a href='https://www.tydoc-csb.nc/'>https://www.tydoc-csb.nc/</a></p> "
+      }
+    ]
+  },
+  {
+    "title": "Avantages d'un TPE fixe en IP",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Quels sont les avantages d'un TPE fixe en IP ?</h2>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>Si vous bénéficiez d'une connexion internet, vous pouvez bénéficier des avantages d'un TPE fixe en IP: gain de temps, puisqu'une autorisation de paiement prend moins de 8 secondes, meilleur fiabilité sur les réussites des autorisations et des télécollectes et pas de coûts de communication car ils sont intégrés à notre offre.</p>"
+      }
+    ]
+  },
+  {
+    "title": "Carte commerçante",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Quel est le rôle de la carte commerçante ?</h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Elle permet l’annulation d’une transaction enregistrée avant télécollecte. Elle permet également de faire un crédit sur une carte pour la Vente à Distance. Il n’y a pas besoin de carte commerçante pour faire un crédit.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment en obtenir une ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>En cas de perte ou pour une demande supplémentaire deux cas de figure sont possibles :</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Pour la carte commerçante bancaire (EMV), le client doit s’adresser à sa banque.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Pour les cartes commerçantes AMEX et AVANTAGE, le client doit s’adresser à la CSB.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Comment identifier la carte commerçante que vous possédez ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Sur la carte commerçante commune EMV et JADE, seul le numéro commerçant est indiqué.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Si vous possédez la carte commerçante AMEX, vous retrouverez l’intitulé AMEX sur la carte en plus du numéro commerçant.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Sur la carte commerçante AVANTAGE, le nom AVANTAGE figure en plus du numéro commerçant.</p>"
+      },
+      {
+        "type": "html",
+        "content": "<h2><strong>Quelles sont les précautions d’usage et de stockage recommandées ?</strong></h2>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Dans la mesure où cette carte permet certaines opérations exceptionnelles, il est important de prendre les mesures nécessaires en adéquation avec  le bon fonctionnement de son exploitation.</p>"
+      }
+    ]
+  },
+  {
+    "title": "Comment résilier un contrat TPE ?",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<h2>Comment résilier un contrat TPE ?</h2>"
+      },
+      {
+        "type": "html",
+        "content" : "<p>1. Pour résilier votre contrat, il suffit de télécharger le <a href='https://www.csb.nc/wp-content/uploads/2022/01/FORMULAIRE-DE-RESILIATION.pdf'>FORMULAIRE DE RESILIATION</a></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Complétez et signez le formulaire puis retournez le avec l'intégralité du matériel à l'adresse suivante : <a href='mailto:sav@csb.nc'>sav@csb.nc</a></p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>2. Retournez les appareils en vous déplaçant directement à la CSB ou en faisant appel à un transporteur :</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Calédonienne de Services Bancaires</p><p>88 promenade de Koutio</p><p>98835 Dumbéa</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>Attention les éléments doivent être en bon état et complets (câble, pin pad,etc)</p>"
+      },
+      {
+        "type": "html",
+        "content": "<p>3. La résiliation est effective après la réception de l'intégralité des éléments</p>"
+      }
+    ]
+  },
+  {
+    "title": "Date de fin de vie TPE",
+    "blocks": [
+      {
+        "type": "html",
+        "content": "<p><u><strong>Desk/5000 MOVE/5000</strong></u></p>"
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>CONSTRUCTEUR</strong></p>",
+            "cause": "<p>INGENICO</p>"
+          },
+          {
+            "libelle": "<p><strong>LIBELLE EQUIPEMENT</strong></p>",
+            "cause": "<p>Desk/5000<br>MOVE/5000</p>"
+          },
+          {
+            "libelle": "<p><strong>REFERENTIEL</strong></p>",
+            "cause": "<p>CB5.5</p>"
+          },
+          {
+            "libelle": "<p><strong>VERSION PCI</strong></p>",
+            "cause": "<p>v5.x</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN PCI</strong></p>",
+            "cause": "<p>30/04/2026</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DE FIN DE COMMERCIALISATION</strong></p>",
+            "cause": "<p>30/04/2026</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE DEPLOIEMENT</strong></p>",
+            "cause": "<p>30/04/2026</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE VIE (RETRAIT TERRAIN)</strong></p>",
+            "cause": "<p>31/12/2032</p>"
+          }
+        ]
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>CONSTRUCTEUR</strong></p>",
+            "cause": "<p>INGENICO</p>"
+          },
+          {
+            "libelle": "<p><strong>LIBELLE EQUIPEMENT</strong></p>",
+            "cause": "<p>Desk/5000<br>MOVE/5000</p>"
+          },
+          {
+            "libelle": "<p><strong>REFERENTIEL</strong></p>",
+            "cause": "<p>CB5.5 CB5.2</p>"
+          },
+          {
+            "libelle": "<p><strong>VERSION PCI</strong></p>",
+            "cause": "<p>v4.x</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN PCI</strong></p>",
+            "cause": "<p>30/04/2023</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DE FIN DE COMMERCIALISATION</strong></p>",
+            "cause": "<p>30/04/2023</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE DEPLOIEMENT</strong></p>",
+            "cause": "<p>30/04/2023</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE VIE (RETRAIT TERRAIN)</strong></p>",
+            "cause": "<p>31/12/2029</p>"
+          }
+        ]
+      },
+      {
+        "type": "html",
+        "content": "<p><strong><u>ICT 220/250 IWL250</u></strong>"
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>CONSTRUCTEUR</strong></p>",
+            "cause": "<p>INGENICO</p>"
+          },
+          {
+            "libelle": "<p><strong>LIBELLE EQUIPEMENT</strong></p>",
+            "cause": "<p>ICT 220/250<br>IWL250</p>"
+          },
+          {
+            "libelle": "<p><strong>REFERENTIEL</strong></p>",
+            "cause": "<p>CB5.2 / CB5.5</p>"
+          },
+          {
+            "libelle": "<p><strong>VERSION PCI</strong></p>",
+            "cause": "<p>v3.x</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN PCI</strong></p>",
+            "cause": "<p>30/04/2021</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DE FIN DE COMMERCIALISATION</strong></p>",
+            "cause": "<p>30/04/2021</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE DEPLOIEMENT</strong></p>",
+            "cause": "<p>30/04/2021</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE VIE (RETRAIT TERRAIN)</strong></p>",
+            "cause": "<p>31/12/2027</p>"
+          }
+        ]
+      },
+      {
+        "type": "tableauText",
+        "tabcontent": [
+          {
+            "libelle": "<p><strong>CONSTRUCTEUR</strong></p>",
+            "cause": "<p>INGENICO</p>"
+          },
+          {
+            "libelle": "<p><strong>LIBELLE EQUIPEMENT</strong></p>",
+            "cause": "<p>ICT 220/250<br>IWL250</p>"
+          },
+          {
+            "libelle": "<p><strong>REFERENTIEL</strong></p>",
+            "cause": "<p>CB5.2 / CB5.5</p>"
+          },
+          {
+            "libelle": "<p><strong>VERSION PCI</strong></p>",
+            "cause": "<p>v2.x</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN PCI</strong></p>",
+            "cause": "<p>30/04/2017</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE DE FIN DE COMMERCIALISATION</strong></p>",
+            "cause": "<p>30/04/2017</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE DEPLOIEMENT</strong></p>",
+            "cause": "<p>30/04/2017</p>"
+          },
+          {
+            "libelle": "<p><strong>DATE FIN DE VIE (RETRAIT TERRAIN)</strong></p>",
+            "cause": "<p>31/12/2023</p>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Catalogue TPE Matériel et Logiciels",
+    "blocks": [
+      {
+        "type" : "html",
+        "content": "<h1>Catalogue TPE CSB</h1>"
+      },
+      {
+        "type": "localImage",
+        "content": "assets/images/catalogue_TPE.jpg"
+      },
+      {
+        "type": "linkButton",
+        "content" : "Voir le catalogue",
+        "sub_content": "http://v.calameo.com/?bkcode=006940931607ed9947a28"
+      }
+    ]
+  }
+]
